@@ -1,0 +1,9 @@
+rustc hello.rs
+
+g++ hello.cpp
+
+g++ -std=c++17 -Wall -Wextra -pedantic main.cpp -o app
+
+cargo run
+
+cargo clippy
