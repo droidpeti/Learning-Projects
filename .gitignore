@@ -1,0 +1,13 @@
+*.o
+*.out
+*.exe
+
+target/
+Cargo.lock
+
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+.DS_Store

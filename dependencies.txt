@@ -1,0 +1,8 @@
+rustup
+gcc
+g++
+python3
+git
+
+Rust Docs (Offline): rustup doc --book
+Python Docs (Help): python3 -c "help()"
